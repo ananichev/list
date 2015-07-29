@@ -1,3 +1,5 @@
+require 'node'
+
 class List
   attr_accessor :first, :last
 
